@@ -8,7 +8,9 @@
   <sprites name="sprites">
     <sprite>sprites\Liara</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\Liara2</background>
+  </backgrounds>
   <paths name="paths"/>
   <shaders name="shaders">
     <shader type="GLSLES">shaders\shader0.shader</shader>
