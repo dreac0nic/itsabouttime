@@ -1,0 +1,53 @@
+# ================ #
+# Gamemaker Studio #
+# ================ #
+SCIfile.txt
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+/*.pdb
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+
+# ================ #
+# Editor generated #
+# ================ #
+*.blend[0-9]
+.*.sw*
+*~
+\#*#
+
+# =================================== #
+# Binary assets (Google drive please) #
+# =================================== #
+assetUser.ini*
+desktop.ini*
+
+# ================ #
+# Project Specific #
+# ================ #
+Build/
+
+# ===================== #
+# Other Synchronization #
+# ===================== #
+.sync
