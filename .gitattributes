@@ -6,3 +6,4 @@
 *.tga filter=lfs diff=lfs merge=lfs -crlf
 *.fbx filter=lfs diff=lfs merge=lfs -crlf
 *.otf filter=lfs diff=lfs merge=lfs -crlf
+*.ico filter=lfs diff=lfs merge=lfs -text
